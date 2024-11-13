@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #1e90ff; /* Optional: change link color to a nice blue */
+}
+
+a:hover {
+    color: #ff6347; /* Optional: hover effect for links */
+}
