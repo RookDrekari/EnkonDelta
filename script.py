@@ -3,9 +3,9 @@ import xml.etree.ElementTree as ET
 
 # Fetch data from NationStates API
 headers = {
-    'User-Agent': 'EnkonDelta (Contact: https://www.nationstates.net/nation=nedea)'  # Replace with your app name and contact info
+    'User-Agent': 'EnkonDelta (Contact: https://www.nationstates.net/nation=nedea)'  
 }
-nation = "nedea"  # Replace with your nation's name
+nation = "nedea"  # Replace with nation's name
 url = f"https://www.nationstates.net/cgi-bin/api.cgi?nation={nation}&q=region+population+currency+animal"
 response = requests.get(url, headers=headers)
 
