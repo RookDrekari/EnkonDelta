@@ -49,7 +49,7 @@ For inquiries, suggestions, or collaborations, feel free to reach out via [our c
 - [Interactive Map](#)
 - [Nation Profiles](#)
 - [Changelog](#)
-- [NCON Official Website](#https://www.nationstates.net/region=new_coalition_of_nations)
+- [NCON Official Website](https://www.nationstates.net/region=new_coalition_of_nations)
 
 ---
 
