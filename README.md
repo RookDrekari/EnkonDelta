@@ -13,16 +13,12 @@ Enkon Delta is a dynamic, post-modern tech planet where nations rise and fall, e
 ## Features
 
 - **Interactive World Map**  
-  [Link to interactive map]
 
 - **Nation Profiles**  
-  [Link to nation profiles]
 
 - **Historical Maps Archive**  
-  [Link to archive]
 
 - **Updates and Announcements**  
-  [Link to announcements page]
 
 ## How to Use This Repository
 
@@ -30,17 +26,17 @@ Enkon Delta is a dynamic, post-modern tech planet where nations rise and fall, e
    Access the latest version of Enkon Delta’s map under the [Maps Directory](#).
 
 2. **View Nation Details**  
-   Dive into each nation’s territory, cities, and infrastructure.
+   Dive into each nation’s territory, cities, infrastructure, and other *opinions* the cartographer might have.
 
-3. **Contribute**  
-   Submit issues or suggestions via the [Issues tab](#).
+3. **Stake a Claim**  
+   Become a part of our world by visiting [Claims](#).
 
 4. **Stay Updated**  
    Keep track of map updates and Coalition news through our [Changelog](#).
 
 ## Contact & Collaboration
 
-For inquiries, suggestions, or collaborations, feel free to reach out via [our communication hub](#).  
+For inquiries, suggestions, or collaborations, feel free to reach out to the [Cartographer](https://www.nationstates.net/nation=nedea).  
 
 ---
 
