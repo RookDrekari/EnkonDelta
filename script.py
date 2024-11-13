@@ -6,7 +6,7 @@ headers = {
     'User-Agent': 'EnkonDelta (Contact: https://www.nationstates.net/nation=nedea)'  # Replace with your app name and contact info
 }
 nation = "nedea"  # Replace with your nation's name
-url = f"https://www.nationstates.net/cgi-bin/api.cgi?nation={nation}&q=region+population"
+url = f"https://www.nationstates.net/cgi-bin/api.cgi?nation={nation}&q=region+population+currency+animal"
 response = requests.get(url, headers=headers)
 
 if response.status_code == 200:
@@ -14,6 +14,8 @@ if response.status_code == 200:
     root = ET.fromstring(response.content)
     region = root.find('REGION').text
     population = root.find('POPULATION').text
+    currency = root.find('CURRENCY').text
+    animal = root.find('CURRENCY').text
 
     # Generate Markdown content
     md_content = f"""
@@ -24,6 +26,12 @@ if response.status_code == 200:
 
 ## Population
 **{population}**
+
+## Currency
+**{currency}**
+
+## Animal
+**{animal}**
 
 ---
 
