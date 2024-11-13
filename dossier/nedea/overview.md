@@ -13,7 +13,7 @@ title: Nedea - Nation Overview
   }
 
   .hero {
-    background-image: url('https://via.placeholder.com/1500x800/003366/ffffff?text=Nedea+Nation'); /* Replace with your image URL */
+    background-image: url('https://www.nationstates.net/images/flags/uploads/nedea__201691.jpg'); /* Replace with your image URL */
     background-size: cover;
     background-position: center;
     height: 100vh;
