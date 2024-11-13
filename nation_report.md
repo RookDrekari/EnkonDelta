@@ -11,7 +11,7 @@
 **Kredit**
 
 ## Animal
-**Kredit**
+**Pony**
 
 ---
 
