@@ -1,1 +1,34 @@
+name: Update Nation Report
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python script.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email rookdrekari@proton.me # Your email
+          git config --local user.name RookDrekari        # Your name
+          git add nation_report.md
+          git commit -m "Automated update of Nation Report"
+          git push
 
