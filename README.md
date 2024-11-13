@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="mdstyle.css">
+
 # New Coalition of Nations - Coalition Cartography Authority
 
 Welcome to the official repository for the **Coalition Cartography Authority (CCA)**, the dedicated cartographic service for the **New Coalition of Nations (NCON)**. Here, we meticulously chart and maintain the geopolitical, environmental, and tactical maps of our shared world, **Enkon Delta**.
