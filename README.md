@@ -51,6 +51,7 @@ For inquiries, suggestions, or collaborations, feel free to reach out to the [Ca
 - [Interactive Map](#)
 - [Nation Profiles](#)
 - [Changelog](#)
+- [Repository](https://github.com/RookDrekari/EnkonDelta)
 - [NCON Official Website](https://www.nationstates.net/region=new_coalition_of_nations)
 
 ---
