@@ -1,4 +1,7 @@
 <link rel="stylesheet" type="text/css" href="mdstyle.css">
+<p align="center">
+  <img src="https://www.nationstates.net/images/flags/uploads/rflags/new_coalition_of_nations__152634.png" alt="NCON Flag" />
+</p>
 
 # New Coalition of Nations - Coalition Cartography Authority
 
