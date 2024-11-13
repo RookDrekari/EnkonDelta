@@ -1,10 +1,10 @@
 # New Coalition of Nations - Coalition Cartography Authority
 
-Welcome to the official repository for the **Coalition Cartography Authority (CCA)**, the dedicated cartographic service for the **New Coalition of Nations (NCN)**. Here, we meticulously chart and maintain the geopolitical, environmental, and tactical maps of our shared world, **Enkon Delta**.
+Welcome to the official repository for the **Coalition Cartography Authority (CCA)**, the dedicated cartographic service for the **New Coalition of Nations (NCON)**. Here, we meticulously chart and maintain the geopolitical, environmental, and tactical maps of our shared world, **Enkon Delta**.
 
 ## About the CCA
 
-The **Coalition Cartography Authority** serves as the official mapmaker for the NCN, tasked with the continuous refinement and publication of Enkon Delta’s map. Our work supports role-playing activities, strategic planning, and lore development for the nations within our coalition.
+The **Coalition Cartography Authority** serves as the official mapmaker for NCON, tasked with the continuous refinement and publication of Enkon Delta’s map. Our work supports role-playing activities, strategic planning, and lore development for the nations within our coalition.
 
 ## Enkon Delta: A Living World
 
