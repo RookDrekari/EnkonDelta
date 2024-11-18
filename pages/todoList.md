@@ -1,3 +1,8 @@
+---
+layout: default
+title: Todo List
+---
+
 <link rel="stylesheet" type="text/css" href="./mdstyle.css">
 
 # Nedea's TODO/Wish List
