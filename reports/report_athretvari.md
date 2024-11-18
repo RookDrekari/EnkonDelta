@@ -1,18 +1,19 @@
 
-# NationStates Report for nedea
+# NationStates Report for athretvari
 
 ## Region
 **New Coalition of Nations**
 
 ## Population
-**31348**
+**27283**
 
 ## Currency
-**Kredit**
+**Athcoin**
 
 ## Animal
-**Pony**
+**pygmy berserker-cat**
 
 ---
 
 *Data fetched from the NationStates API.*
+*This report was generated on 2024-11-18*

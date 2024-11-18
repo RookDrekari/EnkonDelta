@@ -59,4 +59,8 @@ For inquiries, suggestions, or collaborations, feel free to reach out to the [Ca
 
 ---
 
+### Development Links
+
+- [Nationstates API](https://www.nationstates.net/pages/api.html)
+- [Nationstates Census Codes](https://forum.nationstates.net/viewtopic.php?f=15&t=159491)
 *This repository is maintained by the Coalition Cartography Authority.*
