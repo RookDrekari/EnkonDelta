@@ -56,7 +56,7 @@ For inquiries, suggestions, or collaborations, feel free to reach out to the [Ca
 - [Main Directory](#)
 - [Interactive Map](#)
 - [Nation Profiles](#)
-- [TODO/Wish List](https://rookdrekari.github.io/EnkonDelta/pages/todoList.md)
+- [TODO/Wish List](https://rookdrekari.github.io/EnkonDelta/pages/todoList)
 - [Changeblog](#)
 - [Repository](https://github.com/RookDrekari/EnkonDelta)
 - [NCON Official Website](https://www.nationstates.net/region=new_coalition_of_nations)
