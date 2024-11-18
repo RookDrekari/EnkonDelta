@@ -37,14 +37,14 @@ Enkon Delta is a dynamic, post-modern tech planet where nations rise and fall, e
    Become a part of our world by visiting [Claims](#).
 
 4. **Stay Updated**  
-   Keep track of map updates and Coalition news through our [Changelog](#).
+   Keep track of map updates and Coalition news through our [Changeblog](#).
 
 5. **Not sure where to start?**
    Visit the main Directory and get lost!
 
 ## Contact & Collaboration
 
-For inquiries, suggestions, or collaborations, feel free to reach out to the [Cartographer](https://www.nationstates.net/nation=nedea).  
+For inquiries, suggestions, or collaborations, feel free to reach out to the [Cartographer](https://www.nationstates.net/page=compose_telegram?tgto=Nedea).  
 
 ---
 
@@ -53,7 +53,8 @@ For inquiries, suggestions, or collaborations, feel free to reach out to the [Ca
 - [Main Directory](#)
 - [Interactive Map](#)
 - [Nation Profiles](#)
-- [Changelog](#)
+- [TODO/Wish List](https://rookdrekari.github.io/EnkonDelta/pages/todoList.md)
+- [Changeblog](#)
 - [Repository](https://github.com/RookDrekari/EnkonDelta)
 - [NCON Official Website](https://www.nationstates.net/region=new_coalition_of_nations)
 

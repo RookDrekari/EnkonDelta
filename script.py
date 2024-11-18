@@ -29,7 +29,7 @@ def fetch_census_report(nation):
 **{region}**
 
 ## Population
-**{population}**
+**{population}** in millions
 
 ## Currency
 **{currency}**
