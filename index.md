@@ -1,6 +1,6 @@
 ---
 layout: default
-title: README
+title: Enkon Delta
 ---
 <p align="center">
   <img src="https://www.nationstates.net/images/flags/uploads/rflags/new_coalition_of_nations__152634.png" alt="NCON Flag" />
