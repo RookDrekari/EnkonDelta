@@ -1,5 +1,5 @@
 
-# NationStates Report for athretvari
+# NationStates Report for Athretvari
 
 ## Region
 **New Coalition of Nations**

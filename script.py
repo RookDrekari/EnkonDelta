@@ -23,7 +23,7 @@ if response.status_code == 200:
     reportDate = date.today()
     # Generate Markdown content
     md_content = f"""
-# NationStates Report for {nation}
+# NationStates Report for {nation.title()}
 
 ## Region
 **{region}**
