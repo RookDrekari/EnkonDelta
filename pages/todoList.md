@@ -3,8 +3,6 @@ layout: default
 title: Todo List
 ---
 
-<link rel="stylesheet" type="text/css" href="./mdstyle.css">
-
 # Nedea's TODO/Wish List
 
 Here is my current TODO list and the status of different tasks within the 3.0 project. It is divided into a few subjects and nothing is in any particular order.
