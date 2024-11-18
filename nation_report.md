@@ -5,7 +5,7 @@
 **New Coalition of Nations**
 
 ## Population
-**31343**
+**31348**
 
 ## Currency
 **Kredit**
