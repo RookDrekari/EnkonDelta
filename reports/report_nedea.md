@@ -1,17 +1,17 @@
 
-# Census Report for Athretvari
+# Census Report for Nedea
 
 ## Region
 **New Coalition of Nations**
 
 ## Population
-**27283**
+**31353**
 
 ## Currency
-**Athcoin**
+**Kredit**
 
 ## Animal
-**pygmy berserker-cat**
+**Pony**
 
 ---
 

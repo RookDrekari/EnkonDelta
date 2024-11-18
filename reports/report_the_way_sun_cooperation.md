@@ -1,17 +1,17 @@
 
-# Census Report for Athretvari
+# Census Report for The_Way_Sun_Cooperation
 
 ## Region
 **New Coalition of Nations**
 
 ## Population
-**27283**
+**1556**
 
 ## Currency
-**Athcoin**
+**Standard Monetary Credit**
 
 ## Animal
-**pygmy berserker-cat**
+**Vawn Hawk**
 
 ---
 

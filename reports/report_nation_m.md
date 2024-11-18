@@ -1,17 +1,17 @@
 
-# Census Report for Athretvari
+# Census Report for Nation_M
 
 ## Region
 **New Coalition of Nations**
 
 ## Population
-**27283**
+**13448**
 
 ## Currency
-**Athcoin**
+**Kredit**
 
 ## Animal
-**pygmy berserker-cat**
+**Handerflot**
 
 ---
 
