@@ -4,35 +4,21 @@
 @import "{{ site.theme }}";
 
 /* Navbar styling */
-.navbar {
+.custom-nav {
+    position: relative;
+    z-index: 9999;
     background-color: #333;
-    overflow: hidden;
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
+    padding: 10px;
   }
   
-  .navbar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .navbar li {
-    margin: 0 20px;
-  }
-  
-  .navbar li a {
+  .custom-nav a {
     color: white;
-    padding: 14px 20px;
     text-decoration: none;
-    display: block;
-    font-weight: bold;
-    transition: background-color 0.3s ease;
+    margin: 0 15px;
+    padding: 5px;
   }
   
-  .navbar li a:hover {
-    background-color: #ddd;
-    color: black;
+  .custom-nav a:hover {
+    color: #ff6347;
   }
+  
