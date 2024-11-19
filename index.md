@@ -3,7 +3,7 @@ layout: default
 title: Enkon Delta
 ---
 
-# Coalition Cartography Authority
+# New Coalition Cartography Authority
 
 ---
 
