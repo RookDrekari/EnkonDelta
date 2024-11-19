@@ -2,9 +2,6 @@
 layout: default
 title: Enkon Delta
 ---
-<p align="center">
-  <img src="https://www.nationstates.net/images/flags/uploads/rflags/new_coalition_of_nations__152634.png" alt="NCON Flag" />
-</p>
 
 # New Coalition of Nations - Coalition Cartography Authority
 
@@ -26,34 +23,13 @@ Enkon Delta is a dynamic, post-modern tech planet where nations rise and fall, e
 
 - **Historical Maps Archive**  
 
-- **Updates and Announcements**  
-
-## How to Use This Repository
-
-1. **Explore the Maps**  
-   Access the latest version of Enkon Delta’s map under the [Maps Directory](#).
-
-2. **View Nation Details**  
-   Dive into each nation’s territory, cities, infrastructure, and other *opinions* the cartographer might have right [here](#).
-
-3. **Stake a Claim**  
-   Become a part of our world by visiting [Claims](#).
-
-4. **Stay Updated**  
-   Keep track of map updates and Coalition news through our [Changeblog](#).
-
-5. **Not sure where to start?**
-   Visit the main Directory and get lost!
-
-## Contact & Collaboration
-
-For inquiries, suggestions, or collaborations, feel free to reach out to the [Cartographer](https://www.nationstates.net/page=compose_telegram?tgto=Nedea).  
+- **Updates and Announcements**
 
 ---
 
-### Quick Links
+### Navigation
 
-- [Main Directory](#)
+- [Home](https://rookdrekari.github.io/EnkonDelta/)
 - [Interactive Map](#)
 - [Nation Profiles](#)
 - [TODO/Wish List](https://rookdrekari.github.io/EnkonDelta/pages/todoList)

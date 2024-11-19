@@ -2,9 +2,6 @@
 layout: default
 title: Enkon Delta
 ---
-<p align="center">
-  <img src="https://www.nationstates.net/images/flags/uploads/rflags/new_coalition_of_nations__152634.png" alt="NCON Flag" />
-</p>
 
 # New Coalition of Nations - Coalition Cartography Authority
 
@@ -17,16 +14,6 @@ The **Coalition Cartography Authority** serves as the official mapmaker for NCON
 ## Enkon Delta: A Living World
 
 Enkon Delta is a dynamic, post-modern tech planet where nations rise and fall, engage in diplomacy, and shape the world’s history. The CCA ensures that all changes, whether territorial, infrastructural, or natural, are reflected accurately in our maps.
-
-## Features
-
-- **Interactive World Map**  
-
-- **Nation Profiles**  
-
-- **Historical Maps Archive**  
-
-- **Updates and Announcements**  
 
 ## How to Use This Repository
 
