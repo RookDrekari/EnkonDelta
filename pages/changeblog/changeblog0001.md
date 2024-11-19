@@ -144,7 +144,8 @@ P.S. The discussion we had here page=rmb/postid=46837107 hasn't left my mind eit
 
 Did you really reread that entire thing? Well, if ya did, you know the full extent of my original ambitions with this project. And if you've been keeping an eye on the RMB recently, you'll know I've already made comments on this subject. Regardless, this project has been a blast so far. And I know you might be wondering, "Gee Nedea, when did you get all this energy to actually touch your damn map?"
 
-![Babe update me](/assets/images/updateMeme.jpg)
+![Babe update me]({{ site.baseurl }}/assets/images/updateMeme.jpg)
+
 
 Distractions, and enthusiasm. That's what kept getting in my way. When you become a cartographer, there is so much you want to do to make your map beautiful and user friendly. Despite my efforts, I kept getting lost in the sauce. "*OOOOH* what is this shiny thing?" "I wonder if I could make it do that?" Or my personal favorite, "Oh snap, I was supposed to be working on that map wasn't I?"
 
