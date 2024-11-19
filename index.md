@@ -35,7 +35,7 @@ Enkon Delta is a dynamic, post-modern tech planet where nations rise and fall, e
 - [Interactive Map](#)
 - [Nation Profiles](#)
 - [TODO/Wish List](https://rookdrekari.github.io/EnkonDelta/pages/todoList)
-- [Changeblog](#)
+- [Changeblog](./pages/changeblog/changeblogDirectory)
 - [Repository](https://github.com/RookDrekari/EnkonDelta)
 - [NCON Official Website](https://www.nationstates.net/region=new_coalition_of_nations)
 
