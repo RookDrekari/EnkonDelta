@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Changeblog0001
+title: Changeblog 1
 ---
 
 # Changeblog #1
