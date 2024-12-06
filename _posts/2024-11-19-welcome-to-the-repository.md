@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Changeblog 1 | Welcome to the Repository
+title: Welcome to the Repository
 ---
 
 Phew, making a whole repository is a lot of work. So many pages and so many broken things everywhere. I appreciate all the comments and attempts at critique so far. It has been super fun building this whole thing out, working on the map, and learning all sorts of new things. 
