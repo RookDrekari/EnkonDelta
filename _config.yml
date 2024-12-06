@@ -5,3 +5,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 baseurl: "/EnkonDelta"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
