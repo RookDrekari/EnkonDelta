@@ -1,12 +1,14 @@
 ---
-layout: default
-title: Changeblog
+layout: page
+title: Posts Directory
 ---
 
-# Changeblogs
+<h1>All Posts</h1>
 
-Here you will find the insane musings of Nedea as well some information about updates.
-
-* [Changeblog #1](./changeblog0001)
-* [Changeblog #2](./changeblog0002)
-* [Changeblog #3](./changeblog0003)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href=“{{ post.url }}”>{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
